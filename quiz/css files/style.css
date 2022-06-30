@@ -14,7 +14,7 @@ body {
     align-items: center;
     width: 100vw;
     height: 100vh;
-    /* background: url("klme-book-cover.jpg"); */
+    background: url("bg1.jpg"); 
     background-color: #0f6863;
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
